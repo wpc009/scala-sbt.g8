@@ -6,7 +6,7 @@ A [giter8] template for [Scala] or [Java] basic single module project using [sbt
 License
 -------
 
-Copyright 2014 Maxtropy, Inc.
+Copyright 2014 Typesafe, Inc.
 
 Licensed under the [Apache License, Version 2.0][apache2] (the "License"); you
 may not use this software except in compliance with the License. You may obtain
