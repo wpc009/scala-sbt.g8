@@ -1,12 +1,12 @@
-Scala sbt template
+Base sbt Project template
 ==================
 
-A [giter8] template for [Scala] projects using [sbt].
+A [giter8] template for [Scala] or [Java] basic single module project using [sbt].
 
 License
 -------
 
-Copyright 2012 Typesafe, Inc.
+Copyright 2014 Maxtropy, Inc.
 
 Licensed under the [Apache License, Version 2.0][apache2] (the "License"); you
 may not use this software except in compliance with the License. You may obtain
@@ -21,5 +21,8 @@ specific language governing permissions and limitations under the License.
 
 [giter8]: https://github.com/n8han/giter8
 [Scala]: http://www.scala-lang.org/
+[Java]: http://www.java.com/
 [sbt]: http://github.com/harrah/xsbt/
 [apache2]: http://www.apache.org/licenses/LICENSE-2.0
+
+
